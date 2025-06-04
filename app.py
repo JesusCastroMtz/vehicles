@@ -22,7 +22,7 @@ df_transformado['is_4wd'] = df_transformado['is_4wd'].astype('bool')
 # Creo la columna de fabricante al extraer la primera palabra de modelo
 df_transformado['manufacturer'] = df_transformado['model'].str.split().str[0]
 # Asignación de los datos
-df_car = df_transformado.reset_index()
+df_car = df_transformado.reset_index(drop=True)
 
 
 #------------------------------------------------------------------------------#
@@ -85,7 +85,6 @@ selected_years = st.slider(
 # Filtrar datos según el rango seleccionado
 df_filtered = df_car[(df_car['model_year'] >= selected_years[0]) & 
                    (df_car['model_year'] <= selected_years[1])]
-
 
 # Crear el gráfico con o sin categorización
 if usar_categoria and opcion_c:
