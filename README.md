@@ -18,10 +18,6 @@ Esta aplicación web interactiva está diseñada para analizar y visualizar dato
     * Gráfico de dispersión opcional para visualizar la relación entre año del modelo y precio/kilometraje
     * Visualización interactiva con detalles al pasar el cursor
 
-- Filtrado Inteligente:
-    * Todos los gráficos responden dinámicamente a los filtros aplicados
-    * Interfaz intuitiva con controles deslizantes y menús desplegables
-
 ## Beneficios para el Usuario
 - Para analistas: Explorar rápidamente relaciones entre variables clave
 - Para vendedores: Analizar tendencias del mercado y posicionamiento competitivo
