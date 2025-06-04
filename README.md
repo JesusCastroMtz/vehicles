@@ -23,9 +23,9 @@ Esta aplicación web interactiva está diseñada para analizar y visualizar dato
     * Interfaz intuitiva con controles deslizantes y menús desplegables
 
 ## Beneficios para el Usuario
-    * Para analistas: Explorar rápidamente relaciones entre variables clave
-    * Para vendedores: Analizar tendencias del mercado y posicionamiento competitivo
-    * Para compradores: Identificar rangos de precios por año y condición del vehículo
+- Para analistas: Explorar rápidamente relaciones entre variables clave
+- Para vendedores: Analizar tendencias del mercado y posicionamiento competitivo
+- Para compradores: Identificar rangos de precios por año y condición del vehículo
 
 La aplicación combina el poder de análisis de Python (Pandas) con visualizaciones interactivas (Plotly) en una interfaz amigable (Streamlit), haciendo que el análisis de datos sea accesible para usuarios sin conocimientos técnicos avanzados.
 
