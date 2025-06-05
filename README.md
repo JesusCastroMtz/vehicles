@@ -2,7 +2,9 @@
 
 ## Descripción del Proyecto
 
-Esta aplicación web interactiva está diseñada para analizar y visualizar datos del mercado de vehículos usados. Proporciona herramientas intuitivas que permiten al usuario explorar los patrones, las tendencias y relaciones en los datos de automóviles de manera dinámica y visual.
+
+
+sta aplicación web interactiva está diseñada para analizar y visualizar datos del mercado de vehículos usados. Proporciona herramientas intuitivas que permiten al usuario explorar los patrones, las tendencias y relaciones en los datos de automóviles de manera dinámica y visual.
 
 ## Funcionalidades Principales
 - Visualización de Datos Completa:
